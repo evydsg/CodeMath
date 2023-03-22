@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CodeMath</string>
+
+    //First Screen
+    <string name="text1">Let\'s Learn Together</string>
+    <string name="text2">Press Here to Start</string>
+
+    //Second Screen
+    <string name= "text3">This calculator will allow you to calculate the tip amount. </string>
+    <string name= "text4">15% of </string>
+    <string name= "text6"> Press here to Calculate </string>
+
+
+</resources>
