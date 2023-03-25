@@ -30,9 +30,13 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA2YjkxMWY0MGViMWMwZWZiMGNmMzM3YjU2OWU0OTgwMzQ1YTJkNCZjdD1n/Z7Ru3ZH5Fjd84oMbmK/giphy.gif
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYwOTJiYmU3ZDZiOTE0MTI0ODJmOGQxNTg2NDBlNzZiODVmZmQ2ZCZjdD1n/OmjDgOqnvApSiSXdv4/giphy.gif
 
 GIF created with GIPHY
+
+Video that shows all the features
+
+https://imgur.com/gallery/ORGSzVI
 
 ## Notes
 
